@@ -10,7 +10,7 @@ import ForgotPassword from './pages/ForgotPassword';
 import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 
-export const serverUrl = "http://localhost:8000";
+export const serverUrl = "https://login-3u4z833u0-mintajul-mondals-projects.vercel.app";
 
 function App() {
   return (
