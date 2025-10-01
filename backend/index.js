@@ -13,7 +13,7 @@ const port = process.env.PORT || 5000;
 
 // Updated CORS configuration
 app.use(cors({
-    origin: ["http://localhost:5173", "http://localhost:5174"], // Added port 5174
+    origin: ["http://localhost:5173", "http://localhost:5174",https://login-1-f70s.onrender.com/], // Added port 5174
     credentials: true
 }));
 
